@@ -15,5 +15,6 @@ public class EgitTest {
 		System.out.println("4444444");
 		System.out.println("5555555");
 		System.out.println("6666666");
+		System.out.println("7777777");
 	}
 }
